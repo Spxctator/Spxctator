@@ -23,4 +23,4 @@ import mad
 print("leave!")
 ```
 
-![UtoMad](https://i.imgur.com/rTWboqJ.png)
+![UtoMad](/images/UtoMad.png)
