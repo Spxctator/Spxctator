@@ -20,7 +20,10 @@ print("hihi")
 import mad
 
 # bye
-print("leave!")
+print("shoo!")
 ```
 
-![UtoMad](/images/UtoMad.png)
+<!--- ![UtoMad](/images/UtoMad.png) --->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Spxctator/Spxctator/main/images/UtoMad.png" align="center" style="width: 100%" />
+</div>
