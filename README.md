@@ -20,6 +20,14 @@ print("hihi")
 
 ---
 
+## GitHub Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spxctator&show_icons=true&hide_border=true&theme=radical&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spxctator&exclude_repo=KNN-Image-Classification&show_icons=true&theme=radical&hide_border=true&layout=default&langs_count=8&hide_title=true"/>
+</p>
+
+---
+
 ```python
 import mad
 
